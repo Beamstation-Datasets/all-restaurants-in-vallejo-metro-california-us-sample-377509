@@ -9,9 +9,9 @@
 | Dataset ID | `377509` |
 | Location | Vallejo, CA |
 | Category | Restaurants |
-| Full dataset size | 379 records |
-| Free sample size | 37 records (9.76%) |
-| Last export | 2026-04-07T12:11:55.976525+00:00 |
+| Full dataset size | 370 records |
+| Free sample size | 37 records (10.0%) |
+| Last export | 2026-04-14T12:07:10.931822+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-vallejo-metro-california-us-sample-377509/releases/download/sample-latest/beamstation_377509_restaurants-us-vallejoca_SAMPLE_DIST.csv) |
 
 ## What is in this sample

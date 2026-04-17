@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e4146cf7-603d-4683-8a9d-5e785bca02ed",
+  "export_job_id": "63f01413-c5e8-4485-b13c-e562efb890fa",
   "id_short": 377509,
-  "published_at": "2026-04-11T19:44:08Z",
+  "published_at": "2026-04-17T19:21:50Z",
   "repo_name": "all-restaurants-in-vallejo-metro-california-us-sample-377509",
   "sample_asset_name": "beamstation_377509_restaurants-us-vallejoca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/377509/beamstation_377509_restaurants-us-vallejoca_SAMPLE_DIST.csv",
   "sample_records": 37,
-  "sample_sha256": "de9d18dae2fb3f8be01c7b6317741a8fc086557ba7b378dc004a0dc8ee1b0efd",
-  "sample_size_bytes": 153981,
-  "total_records": 379
+  "sample_sha256": "eccb3d93882e2c33c95d7050648d3b24ed7e24fad57f2ee014fdce8a7d3ebffd",
+  "sample_size_bytes": 155726,
+  "total_records": 370
 }
